@@ -14,6 +14,7 @@
 
 ### App Walkthrough GIF
 
+`<img src="https://i.imgur.com/vxwGr6b.mp4" width=250><br>
 <img src='https://i.imgur.com/vxwGr6b.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Notes
@@ -41,6 +42,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 
 <img src='https://i.imgur.com/0bezTeJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [Quicktime Player](https://www.apple.com/macos/monterey/#quicktime).
 
 ### Notes
 Describe any challenges encountered while building the app.
