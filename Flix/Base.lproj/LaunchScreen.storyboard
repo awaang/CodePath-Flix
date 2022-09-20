@@ -17,11 +17,11 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" fixedFrame="YES" image="launch_image" translatesAutoresizingMaskIntoConstraints="NO" id="UUs-Xa-x3g">
-                                <rect key="frame" x="114" y="207" width="187" height="185"/>
+                                <rect key="frame" x="114" y="202" width="187" height="185"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Flix" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1oA-Eq-sa9">
-                                <rect key="frame" x="135" y="437" width="145" height="70"/>
+                                <rect key="frame" x="135" y="436" width="145" height="70"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="Menlo-Bold" family="Menlo" pointSize="60"/>
                                 <nil key="textColor"/>
